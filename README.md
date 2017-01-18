@@ -4,7 +4,7 @@ JsonToDTO's will allow you recursively create a data object accessors from any s
 # Install :
 Clone The repository or Just download the JAR file.
 
-# Run :
+# Run (Command Line for macOS):
 ```Shell
 java -jar JsonToPojo.jar -input ${PWD}/input/
 ```
