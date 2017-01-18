@@ -1,10 +1,12 @@
-# Made By ThePredators
 # JsonToDTO-s
 JsonToDTO's will allow you recursively create a data object accessors from any set of JSON files. 
 
-# here is the command line to execute the following java jar
+# Run it !
+```Shell
 java -jar JsonToPojo.jar -input ${PWD}/input/
+```
 
-## In my case i used ${PWD} to get Root path where the JAR is located and then i specify an input folder containing all my JSON FILES !  
+# Notes : 
+In my case i used ${PWD} to get Root path where the JAR is located and then i specify an input folder containing all my JSON FILES !  
 
-## Enjoy !!
+Enjoy !!
